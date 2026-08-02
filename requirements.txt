@@ -1,8 +1,8 @@
-flask
+streamlit
+opencv-python-headless
 ultralytics
 easyocr
 pandas
-openpyxl
 numpy
-opencv-python-headless
-gunicorn
+pillow
+openpyxl
